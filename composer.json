@@ -1,0 +1,8 @@
+{
+	"name": "jamesiarmes/php-ews",
+	"autoload": {
+	  "psr-0": {
+	    "": "."
+	  }
+	}
+}
